@@ -1,0 +1,4 @@
+Histogram/What is a histogram?
+Terminal Commands/Show us how to navigate to the "Documents" Folder.
+Terminal Commands/What does "cd" do and what does it stand for?
+Python/Tell me 3 different data types in Python.
